@@ -1,5 +1,3 @@
-# TreMitchell
-
 💫 About Me:
 
 Hello Everyone, my name is Henry Mitchell, but I preferably go by Tré. 
