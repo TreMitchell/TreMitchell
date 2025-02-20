@@ -6,7 +6,7 @@ I'm a Software Developer that specializes in HTML5, JavaScript, Typescript and R
 
 My current interests include learning backends and servers like PostgresSQL, REST APIs, & JSON. 
 
-Outsidenof web development, my hobbies are bowling 🎳, watching TV 📺, video games 🎮 , and go-karting 🏎️.
+Outside of web development, my hobbies are bowling 🎳, watching TV 📺, video games 🎮 , and go-karting 🏎️.
 
 🌐 Socials:
 
